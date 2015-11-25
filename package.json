@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swiper",
+  "name": "react-native-swiper-haobtc",
   "keywords": [
     "react-component",
     "react-native",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "git+https://github.com/haobtc/react-native-swiper.git"
   },
   "author": "",
   "license": "ISC",
